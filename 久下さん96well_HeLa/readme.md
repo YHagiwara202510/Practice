@@ -1,5 +1,5 @@
 # 2025年12月18日　96well plate
-[96well_all](./96well_al.jpg)
+![96well_all](./96well_al.jpg)
 \
 **約8.5×10^4 HeLa cells/wellを96wellにPassage**
 
